@@ -21,10 +21,6 @@ You can find more details about the Creative Commons Attribution 4.0 Internation
 
 ---
 
-## Contents
-
-The wallpapers are organized into categories (if applicable). You can click on the dropdown below to preview thumbnails of each wallpaper. Each thumbnail links to the high-quality version of the image.
-
 ## How to Download
 
 To download a full-size wallpaper, simply click on the image link above, which will take you to the original 4K resolution image.
